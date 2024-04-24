@@ -1,4 +1,3 @@
-# DementiaVoiceAnalyzer
 Detecting Alzheimer's Disease through speech analysis. 
 
 ## Team members:
