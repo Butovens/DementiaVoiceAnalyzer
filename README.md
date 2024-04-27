@@ -29,4 +29,4 @@ The Dementia Voice Analyzer project holds significant potential to advance AD di
 - Explore applications beyond AD detection, such as concussion detection
 
 ## Acknowledgements
-We would like to acknowledge the support of [the ERDOS institue=t](https://www.erdosinstitute.org/). Special thanks to Matthew Graham for their assistance with the project.
+We would like to acknowledge the support of [the ERDOS institute](https://www.erdosinstitute.org/). Special thanks to Matthew Graham for their assistance with the project.
